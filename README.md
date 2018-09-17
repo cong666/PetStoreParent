@@ -31,9 +31,9 @@ into Spring Cloud Netflix.
 
 # Which Spring Cloud frameworks will be used 
 
-### Eureka Service registration and discovery
-### Eureka Service provider and consumer
-### load balancing with Ribbon
-### Hystrix for circuit breaker
-### Feign for simplifying the http request 
-### Zuul for its smart Routing Service
+- Eureka Service registration and discovery
+- Eureka Service provider and consumer
+- load balancing with Ribbon
+- Hystrix for circuit breaker
+- Feign for simplifying the http request 
+- Zuul for its smart Routing Service
